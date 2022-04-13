@@ -1,4 +1,5 @@
-### Hi there 👋
+## Stats
+![Pavez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavez7274&theme=github_dark&show_icons=true)
 
 <!--
 **Pavez7274/Pavez7274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
