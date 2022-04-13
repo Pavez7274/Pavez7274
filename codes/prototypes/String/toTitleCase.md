@@ -1,5 +1,5 @@
 ## String.prototype.toTitleCase(separator?);
-##### usage:
+##### usage
 string.toTitleCase();
 ##### example 
 ~~~js
