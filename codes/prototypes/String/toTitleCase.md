@@ -1,6 +1,6 @@
 ##### usage
 ~~~ts
-String.toTitleCase(separator?: String);
+String.toTitleCase(separator?: String): String;
 ~~~
 ##### example 
 ~~~js
