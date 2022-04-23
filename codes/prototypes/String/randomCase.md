@@ -1,11 +1,12 @@
-## String.prototype.randomCase();
 ##### usage
-string.randomCase();
+~~~ts
+String.randomCase();
+~~~
 ##### exemple
 ~~~js
 const _0 = 'aaaaaaaaaaaaaa';
 console.log(_0.randomCase());
-// logs something like this: AaAaAaAAaAaAAa
+// something like this AaAaAaAAaAaAAa
 ~~~
 
 ## Code
