@@ -1,6 +1,6 @@
 ##### usage
 ~~~ts
-String.toCodeBlock(lang?: String);
+String.toCodeBlock(lang?: String): String;
 ~~~
 ##### example
 ~~~js
