@@ -1,6 +1,7 @@
-## String.prototype.toCodeBlock(lang?);
 ##### usage
-string.toCodeBlock(lang?: string);
+~~~ts
+String.toCodeBlock(lang?: String);
+~~~
 ##### example
 ~~~js
 const _0 = 'println("uwu");';
