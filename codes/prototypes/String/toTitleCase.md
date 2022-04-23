@@ -1,6 +1,7 @@
-## String.prototype.toTitleCase(separator?);
 ##### usage
-string.toTitleCase();
+~~~ts
+String.toTitleCase(separator?: String);
+~~~
 ##### example 
 ~~~js
 const _0 = 'i like the strokes';
