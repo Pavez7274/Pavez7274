@@ -1,6 +1,6 @@
 ##### usage
 ~~~ts
-String.randomCase();
+String.randomCase(): String;
 ~~~
 ##### exemple
 ~~~js
