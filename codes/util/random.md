@@ -2,7 +2,6 @@
 ~~~ts
 random(max: Number, min?: Number, decimals?: Boolean): Number;
 ~~~
-
 ##### example
 ~~~js
 const _0 = random(30);
