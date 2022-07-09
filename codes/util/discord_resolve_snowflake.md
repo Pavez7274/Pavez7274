@@ -1,6 +1,6 @@
 ## usage
 ~~~ts
-resolveSnowflake(strToSolve: string): string | boolean;
+resolveSnowflake(resolvable: string): string | boolean;
 ~~~
 ## example
 ~~~js
