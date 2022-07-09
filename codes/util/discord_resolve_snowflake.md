@@ -10,8 +10,8 @@ msg.guild.cache.get(resolveSnowflake('<@681919237706612743>'));
 
 ## Code
 ~~~js
-function resolveSnowflake(strToSolve) {
-	const _0 = strToSolve.replace(/[<!@#:&a-z>]/gim, '');
-	return isNaN(Number(_0)) && _0;
+function resolveSnowflake(resolvable) {
+	resolvable = resolvable?.replace(/[<!@#:&a-z>]/gim, "");
+	return isNaN(Number(e)) && e;
 };
 ~~~
