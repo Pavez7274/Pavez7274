@@ -11,10 +11,10 @@ console.log(_0.toTitleCase());
 
 ## Code
 ~~~js
-String.prototype.toTitleCase = function(sep = ' '){
-	return this
-		.split(sep)
-		.map(w => w.toLowerCase().replace(w[0].toLowerCase(), w[0].toUpperCase()))
-		.join(sep)
+String.prototype.toTitleCase = function () {
+	return this.replace(/\w\S{1,}/gim, e => e[0]
+		.toUpperCase() 
+		.concat(e.slice(1))
+	);
 };
 ~~~
