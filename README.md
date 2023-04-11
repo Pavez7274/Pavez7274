@@ -1,13 +1,6 @@
-<style>
-  details > summary {
-    list-style: none;
-  }
-  details > summary::-webkit-details-marker {
-    display: none;
-  }
-</style>
 <div align="center">
 
+  # Discord Profile 
   [![Discord Presence](https://lanyard.cnrad.dev/api/788869971073040454?bg=090808&idleMessage=It%27s%20up%20to%20me%20now...)](https://discord.com/users/788869971073040454)
 
   <details>
