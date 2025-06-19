@@ -19,7 +19,7 @@
     <span><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavez7274&theme=react&layout=compact" /></span>
 </div>
 
-# Discord 
+## Discord 
 <div align="center">
   <a href="https://discord.com/users/788869971073040454">
     <img src="https://lanyard.cnrad.dev/api/788869971073040454?bg=090808&idleMessage=It%27s%20up%20to%20me%20now..." />
