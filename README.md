@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1436905675166056479/1438533549199196201/DSC_0851.jpg?ex=693d75c4&is=693c2444&hm=ee730b025d0cf6aaaefd62e013dd557e0c74cc3dcde0cf237b01aea95b8c3c59&=">
+    <img src="https://media.discordapp.net/attachments/985034879458758706/1483262476177899561/Untitled12_20260316212850.jpg?ex=69bbed94&is=69ba9c14&hm=15ec204e98882ab8e95580ccf4f6d7c7b732153207486ea6c8900edfd1fbaf1c">
     <br/>
     <img src="https://img.shields.io/badge/-Rust-D34516?logo=rust&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=for-the-badge" />
